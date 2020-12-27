@@ -1,0 +1,17 @@
+ 
+ 
+ 
+ .header-list { 
+ display: inline-block ; 
+ border: 3px solid #F0AD46 ; 
+ padding: 3px ;
+ margin: 6px; 
+ float: right;  
+ }
+
+ #c1 {
+    display: inline-block ;
+    border: 3px solid #F0AD46 ; 
+    padding: 3px ;
+    margin: 6px;  
+ }
